@@ -1,0 +1,66 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: https://www.beautylish.com/rest/interview-product/list
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA8ySPW8CMQyG/4oVdaQo98HCdlO7UDEgMVQVShMfWE0TlEvocLr/TjhUBFWBCDEw
+        JXZiP35fuWVrZ1WQvmFjeG+ZQo0eVQxqoRscQHwniTFmTxkfcs5i6tMJoxZGfPf5V2s17dK0K8s5
+        L+N9RUqhOWnTYw5Vb0FqDA3rBnATtZLxPILyFGhlNqTvhiyOkd6Fs0R4htmPhamQX3eD5yl6J2QI
+        UkXnxbAcXQdnKeAXEsb/Tz4YdUXw3BqFrg4a5qSWGBf0d4gscYiJbTz8bfOYC3fG+4seJG1AZaxf
+        oUsXf8skSVbs66CI31n30W0BAAD//wMAHYRzQHkEAAA=
+    headers:
+      Access-Control-Allow-Methods:
+      - POST
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 26 Apr 2022 06:42:41 GMT
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.21.6
+      Set-Cookie:
+      - ui=917b1eab6ea5498d8377ff4cc2871255; Max-Age=493936285; Path=/; expires=Sun,
+        20-Dec-2037 03:14:06 GMT; secure; HttpOnly
+      - ui.sig=e7f5ccd45e0b61fc91d7e44a1f1788c2; Max-Age=493936285; Path=/; expires=Sun,
+        20-Dec-2037 03:14:06 GMT; secure; HttpOnly
+      - vc=e30=; Max-Age=1800; Path=/; expires=Tue, 26-Apr-2022 07:12:41 GMT; secure;
+        HttpOnly
+      - vc.sig=a34dcf71d7c72b35c12428cc0203b9cf; Max-Age=1800; Path=/; expires=Tue,
+        26-Apr-2022 07:12:41 GMT; secure; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 a43b25e4690d3514ec42aed46c3e2f78.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - H-DzBmRohAF75R0z8_0SUscBNbS8Ug1GerpeHeXd7ep9oRc2h4OPZw==
+      X-Amz-Cf-Pop:
+      - IAH50-C1
+      X-Cache:
+      - Miss from cloudfront
+    status:
+      code: 200
+      message: OK
+version: 1

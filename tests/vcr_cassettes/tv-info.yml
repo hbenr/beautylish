@@ -1,0 +1,66 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: https://www.beautylish.com/rest/interview-product/list
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA9STsU4DMQyGX8WKGMvJd1eGY2OCpRUDUgeEUEhcahGSKpfAUN27EwqIArrWQixM
+        SZz8/n5bzkatY7DZpF6dwvVGWXKUyJbDUrueJlDu2VA5q6MaK0RVQndRe3vr9eM2fmbKWqL8qmoQ
+        27JfsbXkv2TZUj5F/okdHMPVc4BLbR7UMIH99K6ruu4wHXfpKeZR+GFi3bTV9OQnchG8pbjMDhZs
+        76m07oNfIzay6kNaUXzX/1nttYR9ztonELZgBLy3AyIXs9An+J7m//n51YigxNCbDtryXGBD9jNF
+        szljz9LxGOFehOB4FzyVgOfZOMq9Gm6GFwAAAP//AwDvGuyElgQAAA==
+    headers:
+      Access-Control-Allow-Methods:
+      - POST
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 26 Apr 2022 06:34:23 GMT
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.21.6
+      Set-Cookie:
+      - ui=093fc3960dd044b38fdffd1b67c6b085; Max-Age=493936783; Path=/; expires=Sun,
+        20-Dec-2037 03:14:06 GMT; secure; HttpOnly
+      - ui.sig=3d7a0c798381ee1b75a4edf05f12d7af; Max-Age=493936783; Path=/; expires=Sun,
+        20-Dec-2037 03:14:06 GMT; secure; HttpOnly
+      - vc=e30=; Max-Age=1800; Path=/; expires=Tue, 26-Apr-2022 07:04:23 GMT; secure;
+        HttpOnly
+      - vc.sig=a34dcf71d7c72b35c12428cc0203b9cf; Max-Age=1800; Path=/; expires=Tue,
+        26-Apr-2022 07:04:23 GMT; secure; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 45bc5c67216e5bfa55158d538db7cebe.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - itcHwEISH7QicM0oZE39OH_VbCi9FJH5tseAg26P8uwyKnqbfjZmpg==
+      X-Amz-Cf-Pop:
+      - IAH50-C1
+      X-Cache:
+      - Miss from cloudfront
+    status:
+      code: 200
+      message: OK
+version: 1

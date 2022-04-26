@@ -1,5 +1,5 @@
 # beautylish
 
-<a href="https://colab.research.google.com/github/hbenr/beautylish/blob/main/notebook.ipynb">
+<a href="https://colab.research.google.com/drive/1X_KGLFyL-7stP330DNll9Zkfn-ZbRClX#scrollTo=cHqJj_6k1IvA">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>

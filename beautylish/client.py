@@ -5,8 +5,7 @@ class Beautylish:
 
     def __init__(self):
         """
-
-        :param api_key:
+        Initialize API client
         """
 
         self.base_url = 'https://www.beautylish.com/rest/interview-product/list'
@@ -14,8 +13,9 @@ class Beautylish:
 
     def get_products(self, save_to_file=False):
         """
+        Make API GET request to receive a list of products from Beautylish
 
-        :return:
+        :return: a json dictionary with information about Beautylish products
         """
 
         try:

@@ -1,7 +1,3 @@
-"""
-Part 2
-● Write a test case for your solution."""
-
 from beautylish import Beautylish
 import pandas as pd
 
